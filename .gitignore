@@ -6,6 +6,6 @@
 *.ko.cmd
 *.mod.o.cmd
 modules.order
-Modules.symvers
+Module.symvers
 .tmp_versions/
 .vagrant/
